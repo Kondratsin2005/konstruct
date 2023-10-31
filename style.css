@@ -52,3 +52,17 @@ body {
   padding-bottom: 15px;
   margin-bottom: 71px;
 }
+.nav_menu a {
+  color: #000;
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  padding: 12px;
+}
+.navigation_container {
+  display: flex;
+  justify-content: space-around;
+  margin: 24px;
+}
+
